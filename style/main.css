@@ -1,0 +1,56 @@
+html,body{
+    height:100%;
+    width:100%;
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+    color:#ffffff;
+}
+
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link 
+{
+    color: #ffffff;
+}
+.contentA{
+    padding-top:10%;
+    padding-bottom: 8%;
+}
+
+h1,#abtT{
+    color: rgba(77, 255, 255, 0.541);
+    font-size:40PX;
+    font-weight: 500;
+    font-family: initial;
+    text-decoration-line: underline;
+    text-decoration-style: double
+}
+
+#musiclist{
+    padding-top: 5%;
+    padding-bottom:2%;
+    /* background: url(../img/emil-vilsek-393710-unsplash.jpg)no-repeat center fixed; */
+    background-color: aquamarine;
+    width:100%;
+    height:50vh;
+}
+#bar{
+    padding-top: 1%;
+    background-color: rgb(227, 241, 237);
+    width:100%;
+    height:11vh;
+    text-align: center;
+    vertical-align: -webkit-baseline-middle;
+}
+h2,#LIST1{
+    color: black;
+    font-family: cursive;
+    font-weight: bold;
+    font-family: inherit;
+    font-stretch: ultra-expanded;
+
+.footer{
+    padding-top: 9%;
+    padding-bottom: 5%;
+    background: rgb(0, 6, 19);
+}
